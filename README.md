@@ -4,7 +4,7 @@ Android application using Kotlin and Firebase for tracking and analysing persona
 ## Features :white_check_mark:
 * Insert and Manage Transactions
 * Transaction Details
-* Transaction Visivility Options
+* Transaction Analyse Options
 * Transaction Reports
 * Export to Excel (.xls format)
 
